@@ -1,0 +1,13 @@
+D:\UnityProject\ServerConsole\bin\Debug\ServerConsole.exe.config
+D:\UnityProject\ServerConsole\bin\Debug\ServerConsole.exe
+D:\UnityProject\ServerConsole\bin\Debug\ServerConsole.pdb
+D:\UnityProject\ServerConsole\obj\Debug\ServerConsole.csprojResolveAssemblyReference.cache
+D:\UnityProject\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+D:\UnityProject\ServerConsole\obj\Debug\ServerConsole.exe
+D:\UnityProject\ServerConsole\obj\Debug\ServerConsole.pdb
+E:\Unity工程\Socket\ServerConsole\bin\Debug\ServerConsole.exe.config
+E:\Unity工程\Socket\ServerConsole\obj\Debug\ServerConsole.exe
+E:\Unity工程\Socket\ServerConsole\obj\Debug\ServerConsole.pdb
+E:\Unity工程\Socket\ServerConsole\bin\Debug\ServerConsole.exe
+E:\Unity工程\Socket\ServerConsole\bin\Debug\ServerConsole.pdb
+E:\Unity工程\Socket\ServerConsole\obj\Debug\ServerConsole.csprojResolveAssemblyReference.cache
